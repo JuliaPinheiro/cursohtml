@@ -1,21 +1,16 @@
-body{
-background-color: #ADD8E6;
+ body{
+ background-color: #ADD8E6;
 
-}
+ }
 
-#title, .subtitle, .post{
-font-style: italic;
+ #title, .subtitle, .post{
+ font-style: italic;
 
-}
+ }
 
-.title{
-
-}
-
-.tabela{
-width: 90%;
-
-}
+ .tabela{
+ width: 90%;
+ }
 
 .post{
 
@@ -47,10 +42,10 @@ padding: 1%;
 }
  
 .button2 {
-  background-color:  #084461; 
-  color: #fff; 
-  border-radius: 7%;
-  border-color: #4682B4;
+ background-color:  #084461; 
+ color: #fff; 
+ border-radius: 7%;
+ border-color: #4682B4;
 }
 
 .button2:hover {

@@ -12,6 +12,11 @@ font-style: italic;
 
 }
 
+.tabela{
+width: 90%;
+
+}
+
 .post{
 
 background-color:#4682B4;
@@ -36,7 +41,7 @@ font-size: 16px;
 }
 
 .imagem{
-width: 17%;
+width: 10%;
 border-radius: 10%;
 padding: 1%;
 }

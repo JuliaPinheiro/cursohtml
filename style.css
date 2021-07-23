@@ -8,6 +8,11 @@
 
  }
 
+#title{
+text-decoration: underline;
+
+ }
+
 .subtitle{
 font-weight: bolder;
 font-style: sans-serif; 
